@@ -1,0 +1,36 @@
+[ {
+  "event" : "breakfast",
+  "description" : "eggs",
+  "date" : "3/11/2020",
+  "id" : "breakfast-3/11/2020"
+}, {
+  "event" : "lunch",
+  "description" : "ham",
+  "date" : "3/11/2020",
+  "id" : "lunch-3/11/2020"
+}, {
+  "event" : "announcement",
+  "description" : "early out",
+  "date" : "3/11/2020",
+  "id" : "announcement-3/11/2020"
+}, {
+  "event" : "breakfast",
+  "description" : "milk",
+  "date" : "3/12/2020",
+  "id" : "breakfast-3/12/2020"
+}, {
+  "event" : "trip",
+  "description" : "science",
+  "date" : "3/11/2020",
+  "id" : "trip-3/11/2020"
+}, {
+  "event" : "announcement",
+  "description" : "pj day",
+  "date" : "3/12/2020",
+  "id" : "announcement-3/12/2020"
+}, {
+  "event" : "snack",
+  "description" : "apple",
+  "date" : "3/12/2020",
+  "id" : "snack-3/12/2020"
+} ]
