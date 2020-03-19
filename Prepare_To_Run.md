@@ -5,7 +5,11 @@ First browse this github and go to
 ```$xslt
 src\main\resources
 ``` 
-folder and download following files
+and download 
+```xhtml
+csv.zip
+```
+zip file to local folder, when you extract this zip file following files will be extracted
 ```$xslt
 csvtojson-1.0-SNAPSHOT-jar-with-dependencies.jar
 run.cmd
@@ -13,11 +17,8 @@ jdk8
 events.csv
 events.json
 ```
-
-Double click **events.csv**, this will open a Microsoft Excel. Edit your entries and save it
- 
-## How to run
-
+## Edit events.csv
+Double click **events.csv**, this will open a Microsoft Excel. 
 ####events.csv
 Edit _events.csv_ file in Microsoft Excel and save it. Make sure event is 
 either of these values **breakfast**, **lunch**, **announcement**, **snack**.
@@ -26,6 +27,7 @@ in the calendar app, make sure no **,** is used when filling out the description
 Save _events.csv_ file after editing and now you are ready to create _events.json_ file based
 on the _events.csv_ file
 
+## How to run
 Double click the  
 ```
 run.cmd
